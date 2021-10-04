@@ -1,0 +1,5 @@
+admin: tutorial
+password: 123456
+email: tutorial@admin.com
+$ git config --global user.name "Tutorial"
+$ git config --global user.email tutorial@admin.com
