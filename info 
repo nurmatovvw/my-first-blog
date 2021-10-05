@@ -1,5 +1,15 @@
 admin: tutorial
 password: 123456
 email: tutorial@admin.com
+############################################################
 $ git config --global user.name "Tutorial"
 $ git config --global user.email tutorial@admin.com
+############################################################
+https://www.pythonanywhere.com/
+Create your account
+Username: uio
+Email: abdulkhakimn@mail.ru
+Password: 12345678
+Password (again): 12345678
+I agree to the Terms and Conditions and the Privacy and Cookies Policy, and confirm that I am at least 13 years old.
+We promise not to spam or pass your details on to anyone else.
